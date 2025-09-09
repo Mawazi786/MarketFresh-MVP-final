@@ -19,7 +19,7 @@ A demonstration application for grocery delivery services with Paystack integrat
 2. Open `index.html` in a web browser to run locally
 
 ## Live Demo
-[View on Netlify](https://your-app-name.netlify.app)
+[View on Netlify](https://marketfresh-mvp.netlify.app/)
 
 ## Testing POD Scenarios
 
@@ -27,4 +27,5 @@ Use the testing controls in the sidebar to simulate different scenarios:
 - Test Card Failure
 - Test Funds Failure  
 - Test Both Success
+
 - Reset to Random
